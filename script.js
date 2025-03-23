@@ -34,3 +34,4 @@ if (isNaN(purchaseAmount)) { //если сумма покупки не явля�
  var finalAmount = purchaseAmount - discount;
  console.log("Итоговая сумма с учетом скидки:", finalAmount);
 }
+//lol
